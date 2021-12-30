@@ -1,0 +1,26 @@
+Assignemt written questions:
+
+1) how to remove branches locally and remotly?
+
+locally: git checkout main
+         git branch -d <branch name>
+
+remotly: git push <remote> --delete <branch name>
+         
+
+2)how to list tags locally?
+
+(git tag) to list the tags locally 
+(git show) to view data stored in the tag 
+
+
+3) delete tag locally and remotly?
+
+locally: git tag -d <tag_name>
+
+remotly: git push --delete origin tagname
+
+4) what is git rebase?
+
+ebasing is changing the base of your branch from one commit to another making it appear as if you'd created your branch from a different commit.
+ 
