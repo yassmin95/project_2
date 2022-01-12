@@ -22,5 +22,5 @@ remotly: git push --delete origin tagname
 
 4) what is git rebase?
 
-ebasing is changing the base of your branch from one commit to another making it appear as if you'd created your branch from a different commit.
+rebasing is changing the base of your branch from one commit to another making it appear as if you'd created your branch from a different commit.
  
